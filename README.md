@@ -67,43 +67,7 @@ The CSV file should contain the following columns:
 
 ---
 
-## 🚀 Installation
 
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/Personal-Finance-Dashboard.git
-```
-
-### 2. Move into the project folder
-
-```bash
-cd Personal-Finance-Dashboard
-```
-
-### 3. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## ▶️ Run the Project
-
-Execute the following command:
-
-```bash
-streamlit run finance.py
-```
-
-The application will automatically open in your browser.
-
----
-
-## 📊 Dashboard Sections
-
-### 💵 Financial Summary
 
 Displays:
 
